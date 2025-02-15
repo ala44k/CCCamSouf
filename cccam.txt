@@ -1,12 +1,6 @@
 # CCCAM.Souf
 
-C: ru101.cserver.tv 1003 mhisw9nb xmka1hfa # v2.1.1-2971
-C: ru682.cserver.tv 1003 mhisw9nb xmka1hfa # v2.1.1-2971
-C: dd996.cserver.tv 1003 mhisw9nb xmka1hfa # v2.1.1-2971
-C: ru256.cserver.tv 1003 mhisw9nb xmka1hfa # v2.1.1-2971
-C: 31.40.218.2 13000 3093 3093 # v2.1.1-2971
-C: visioneuro.sytes.net 13090 cccam2025 www.visioneuro.net # v2.0.11-2892
-C: 109.169.71.6 1003 947gowur efxnho0q # v2.1.1-2971
-
-more : 
-https://direct-link.net/1294795/cccamsouf
+host : 141.94.250.79
+port : 28000
+user : cccamsouf
+pass : cccamsouf
