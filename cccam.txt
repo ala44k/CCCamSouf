@@ -1,5 +1,5 @@
-# CCCamSouf
-اسطر سيسكام متجددة يوميا
+# CCCAM.Souf
+
 C: ru101.cserver.tv 1003 mhisw9nb xmka1hfa # v2.1.1-2971
 C: ru682.cserver.tv 1003 mhisw9nb xmka1hfa # v2.1.1-2971
 C: dd996.cserver.tv 1003 mhisw9nb xmka1hfa # v2.1.1-2971
